@@ -1,0 +1,13 @@
+C:\Users\baran\Desktop\C# Projects\udemy\kisiKayit\kisiKayit\bin\Debug\kisiKayit.exe.config
+C:\Users\baran\Desktop\C# Projects\udemy\kisiKayit\kisiKayit\bin\Debug\kisiKayit.exe
+C:\Users\baran\Desktop\C# Projects\udemy\kisiKayit\kisiKayit\bin\Debug\kisiKayit.pdb
+C:\Users\baran\Desktop\C# Projects\udemy\kisiKayit\kisiKayit\obj\Debug\kisiKayit.csproj.AssemblyReference.cache
+C:\Users\baran\Desktop\C# Projects\udemy\kisiKayit\kisiKayit\obj\Debug\kisiKayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\baran\Desktop\C# Projects\udemy\kisiKayit\kisiKayit\obj\Debug\kisiKayit.Form1.resources
+C:\Users\baran\Desktop\C# Projects\udemy\kisiKayit\kisiKayit\obj\Debug\kisiKayit.Properties.Resources.resources
+C:\Users\baran\Desktop\C# Projects\udemy\kisiKayit\kisiKayit\obj\Debug\kisiKayit.csproj.GenerateResource.cache
+C:\Users\baran\Desktop\C# Projects\udemy\kisiKayit\kisiKayit\obj\Debug\kisiKayit.csproj.CoreCompileInputs.cache
+C:\Users\baran\Desktop\C# Projects\udemy\kisiKayit\kisiKayit\obj\Debug\kisiKayit.exe
+C:\Users\baran\Desktop\C# Projects\udemy\kisiKayit\kisiKayit\obj\Debug\kisiKayit.pdb
+C:\Users\baran\Desktop\C# Projects\udemy\kisiKayit\kisiKayit\obj\Debug\kisiKayit.frmistatistik.resources
+C:\Users\baran\Desktop\C# Projects\udemy\kisiKayit\kisiKayit\obj\Debug\kisiKayit.frmGrafik.resources
