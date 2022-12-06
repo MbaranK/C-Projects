@@ -1,0 +1,14 @@
+﻿namespace OkulProjesi
+{
+
+
+    partial class DataSet1
+    {
+    }
+}
+
+namespace OkulProjesi.DataSet1TableAdapters {
+    
+    
+    
+}
